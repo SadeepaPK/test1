@@ -1,8 +1,6 @@
-# Portfolio Creation Tasks
+# Advanced Portfolio Enhancement Tasks
 
-- [ ] Define theme colors in styles.css (e.g., primary: #007bff, secondary: #6c757d, accent: #28a745)
-- [ ] Create full CSS styling for portfolio in styles.css (layout, typography, responsiveness)
-- [ ] Update index.html with semantic HTML structure (header, nav, sections for home, about, skills, projects, contact, footer)
-- [ ] Link styles.css in index.html
-- [ ] Add placeholder content to sections
-- [ ] Test by opening index.html in browser
+- [x] Create styles.css: Extract inline CSS, add animations, improved layouts, and dark mode support.
+- [ ] Create script.js: Add smooth scrolling, form validation, dark mode toggle, active nav links, and project modal.
+- [ ] Update index.html: Link external CSS/JS, add Font Awesome icons, improve semantics, and add dark mode button.
+- [ ] Test the portfolio: Open index.html in browser, check responsiveness and features.
